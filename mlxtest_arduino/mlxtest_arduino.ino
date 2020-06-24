@@ -47,10 +47,7 @@ sei(); // allow interrupts
 }
 
 void loop() {
-  /*delay(500);*/
 }
-
-
 
 
 ISR(TIMER1_COMPA_vect){
